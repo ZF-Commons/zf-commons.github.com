@@ -20,7 +20,7 @@ Rules
 -----
 
  * We are a consensus based group.
- * New modules should be relevant for at least half of the existing members so that we can ensure long term maintenance
+ * New modules should be relevant for at least half of the existing members so that we can ensure long term maintenance.
  * All members have commit access to all modules and pull requests are  welcome from everyone.
  * Please get a review from another member for any complicated work.
  * Like ZF2's development, we use feature branches for larger changes.

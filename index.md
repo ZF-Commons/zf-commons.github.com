@@ -7,12 +7,12 @@ subtitle: Modules for Zend Framework 2
 ZF-Commons maintains a group of modules that we believe will be useful to many [Zend Framework 2][zf2] developers. We hope that by providing best-of-breed solutions to common requirements, we will help developers concentrate on the interesting things that their applications do.
 
 Contact
-=======
+-------
 You will find us on the [#zftalk.2][zft2] IRC channel on [freenode][freenode].
 
 
 Rules
-=====
+-----
 
  * We are a consensus based group.
  * New modules should be relevant for at least half of the existing members so that we can ensure long term maintenance
@@ -22,7 +22,7 @@ Rules
  
 
 Thanks
-======
+------
 Our thanks to the [FriendsOfSymfony][fos] for inspiration and the rules :)
 
 

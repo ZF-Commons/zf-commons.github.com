@@ -34,7 +34,7 @@ Our thanks to the [FriendsOfSymfony][fos] for inspiration and the rules :)
 [zf2]: http://framework.zend.com/zf2
 [github]: https://github.com/ZF-Commons
 [gitsubmodule]: http://book.git-scm.com/5_submodules.html
-[zftm]: irc://irc.freenode.org:6665/zftalk.2
+[zftm]: irc://irc.freenode.org:6665/zftalk.modules
 [freenode]: http://freenode.org
 [ml]: https://groups.google.com/forum/?fromgroups#!forum/zf-commons
 [fos]: http://friendsofsymfony.github.com

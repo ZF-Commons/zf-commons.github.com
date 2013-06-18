@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://ZF-Commons.github.io/sitemap.xml 

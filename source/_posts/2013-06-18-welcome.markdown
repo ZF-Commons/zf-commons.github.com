@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Welcome"
+author: "Rob"
+date: 2013-06-18 10:54
+comments: true
+categories: 
+---
+
+
+Welcome to our new website. As you can probably tell, it's the stock Octopress
+theme! One day we'll change that.
